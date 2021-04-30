@@ -1,0 +1,47 @@
+body {
+    margin: 1%;
+    padding: 0;
+    background: lightgrey;
+}
+
+.logo {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.game {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 30px;
+    background-color: #f1f1f1;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 1%;
+}
+
+.start {
+    margin-top: 2%;
+    background-color: #fedc00ff;
+    color: black;
+    width: 20%;
+    height: 500%;
+    border-radius: 25px;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.pink {
+    color: #d6007cff;
+}
+
+.blue {
+    color: #009bdbff;
+}
+
+.green {
+    color: #90b301ff;
+}
+
+.yellow {
+    color: #fedc00ff;
+}
